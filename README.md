@@ -69,9 +69,7 @@ Robot mobil 4 roda berbasis Arduino yang dapat menghindari rintangan secara otom
 ---
 
 ## 📸 Dokumentasi
-Tambahkan:
-- Foto robot
-- Diagram wiring (gambar yang tadi)
+Ada pada Docs
 
 ---
 
